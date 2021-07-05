@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tanguy-lmÃ@orange.fr
+	name = tanguy le mehaute
